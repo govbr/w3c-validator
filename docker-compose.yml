@@ -1,0 +1,11 @@
+version: '3'
+services:
+  validator:
+    build: "w3c_validator"
+    ports:
+     - "80:80"
+  nu:
+    build: "validator_nu"
+    ports:
+     - "8888:8888"
+
