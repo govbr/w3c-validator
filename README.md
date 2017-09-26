@@ -6,7 +6,7 @@ Inicie com
 
 ## W3C-Validator - 
 Acesse http://localhost/w3c-validator/ para o validator antigo W3C-Validator.
-From https://github.com/w3c/w3c-markup-validator
+From https://github.com/w3c/markup-validator
 
 ## Validator Nu
 Acesse http://localhost:8888/ para o Validator-Nu.
